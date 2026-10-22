@@ -1,0 +1,3 @@
+# dockerLogTruncate: see README.md
+name = dockerLogTruncate
+language = python
