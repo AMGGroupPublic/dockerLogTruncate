@@ -1,5 +1,10 @@
 # dockerLogTruncate
 
+> **Archived (2026-11-12).** This tool has moved into the internal
+> *dockerUtils* collection of Docker helpers, alongside `dockerLogs`,
+> `dockerEnter` and others, and is no longer maintained here. The version in
+> this repository still works as described below.
+
 A portable, single-file CLI that truncates a Docker container's JSON log file to
 0 bytes — with Tab-completion of container names and IDs.
 

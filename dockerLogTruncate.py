@@ -21,7 +21,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 logger = logging.getLogger("dockerLogTruncate")
 
